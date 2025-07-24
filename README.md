@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Leonardo Jaquimenute
 
-<!--
-**LeonardoJaquimenute/LeonardoJaquimenute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Future Backend, Data & AI Developer**  
+🇧🇷 Born in Brazil, building digital solutions for a global future  
+🧠 Passionate about automation, clean code, and intelligent systems  
+🔍 Driven by curiosity, guided by logic  
+🎯 Mission: to use technology to solve real-world problems and build a meaningful legacy
 
-Here are some ideas to get you started:
+### 📬 How to reach me
+- LinkedIn: [linkedin.com/in/leonardo-gomes-435795366](https://www.linkedin.com/in/leonardo-gomes-435795366)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Knowing is not enough, we must apply. Willing is not enough, we must do.” — Goethe
