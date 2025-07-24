@@ -7,7 +7,8 @@
 🎯 Mission: to use technology to solve real-world problems and build a meaningful legacy
 
 ### 📬 How to reach me
-- LinkedIn: [linkedin.com/in/leonardo-gomes-435795366](https://www.linkedin.com/in/leonardo-gomes-435795366)  
+- LinkedIn: [linkedin.com/in/leonardo-gomes-435795366](https://www.linkedin.com/in/leonardo-gomes-435795366)
+- Email: devjaquimenute@gmail.com
 
 ---
 
