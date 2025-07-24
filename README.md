@@ -1,4 +1,4 @@
-## Hi! I'm Leonardo Jaquimenute
+## Hi! I'm Dev Jaquimenute
 
 **💻 Future Backend, Data & AI Developer**  
 🇧🇷 Born in Brazil, building digital solutions for a global future  
