@@ -1,15 +1,24 @@
-## Hi! I'm Dev Jaquimenute
+# Oi eu sou o Leonardo Jaquimenute, Desenvolvedor backend!
 
-**💻 Future Backend, Data & AI Developer**  
-🇧🇷 Born in Brazil, building digital solutions for a global future  
-🧠 Passionate about automation, clean code, and intelligent systems  
-🔍 Driven by curiosity, guided by logic  
-🎯 Mission: to use technology to solve real-world problems and build a meaningful legacy
+💻 Desenvolvedor Backend em formação, cursando **Análise e Desenvolvimento de Sistemas**.  
+🚀 Objetivo: Me especializar como Backend e evoluir para a área de **Machine Learning**.
 
-### 📬 How to reach me
-- LinkedIn: [linkedin.com/in/leonardo-gomes-435795366](https://www.linkedin.com/in/leonardo-gomes-435795366)
-- Email: devjaquimenute@gmail.com
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/jaquimenute" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devjaquimenute@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-jaquimenute" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
----
 
-> “Knowing is not enough, we must apply. Willing is not enough, we must do.” — Goethe
+> “Não basta saber, devemos aplicar. Não basta querer, devemos fazer.” — Goethe
